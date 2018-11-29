@@ -81,7 +81,7 @@ The inspection will pass without any warnings: "No suspicious code found. 4 file
 
 * This has nothing to do with the Annotations itself. You can remove them if you want, but the problem will persist.
 
-* This has nothing to with Threading.
+* This has nothing to do with Threading.
 
 * This has something to do with Java itself.
 
